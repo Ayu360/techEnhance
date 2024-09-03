@@ -13,14 +13,13 @@ This is react native mobile aplication for [https://techenhance.com/](https://te
 - native application: `npx expo start`
 
 ## ⬇️ Download apk
-[Click here to download apk file](https://expo.dev/accounts/ayushninja/projects/snack-60a7b349-805c-48ee-a924-3e065bbafa8c/builds/4d40742b-b879-4869-8eb8-bf18c21c0793)
+[Click here to download apk file](https://expo.dev/accounts/ayushninja/projects/techEnhance/builds/1f4ed38a-12c2-40b1-a927-535ce9f919b2)
 
 
 ## 📱 Screens
 <img src="https://github.com/user-attachments/assets/044fda15-8aa3-4fe8-a439-7e5237a30477" data-canonical-src="https://github.com/user-attachments/assets/044fda15-8aa3-4fe8-a439-7e5237a30477" width="250" height="400" />
 
 <img src="https://github.com/user-attachments/assets/eaf2d7f1-ff3d-4731-8f40-5d309a27da9c" data-canonical-src="https://github.com/user-attachments/assets/eaf2d7f1-ff3d-4731-8f40-5d309a27da9c" width="250" height="400" />
-
 
 ### NOTE: 
 
